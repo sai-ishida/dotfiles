@@ -12,6 +12,9 @@
 ;; 初期化
 (package-initialize)
 
+;;install pakages which are not installed
+;;this message is written by laptop
+
 ;;do not make backup files
 (setq make-backup-files nil)
 (setq auto-save-default nil)
